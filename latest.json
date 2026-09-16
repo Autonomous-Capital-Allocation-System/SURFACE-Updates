@@ -1,21 +1,21 @@
 {
   "artifacts": {
     "macos-arm64": {
-      "sha256": "6e6e47c8a42667a0b2091d2e3504d8608ee2c050b160bfcad2f8f2e275830ef1",
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/SURFACE-Updates/releases/download/v0.4.0-beta.4/SURFACE_Mac_0.4.0-beta.4.dmg"
+      "sha256": "7a84e3fa233ee6ec6b6945374409ea0b4b5545d48ff51644f1798f0b3a5f28fa",
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/SURFACE-Updates/releases/download/v0.4.0-beta.5/SURFACE_Mac_0.4.0-beta.5.dmg"
     },
     "windows-x64": {
-      "sha256": "0b0a29860cf08008a7de1ad7745a44c9cde01ba8685ccf016a69cb85efefbfc5",
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/SURFACE-Updates/releases/download/v0.4.0-beta.4/SURFACE_Windows_0.4.0-beta.4_Setup.exe"
+      "sha256": "b7e57f307df858afe1e3abbd2a66a2898f97e4ca95de7ffaaf6c8581cd16a9d9",
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/SURFACE-Updates/releases/download/v0.4.0-beta.5/SURFACE_Windows_0.4.0-beta.5_Setup.exe"
     }
   },
   "mandatory": false,
-  "notes_url": "https://github.com/Autonomous-Capital-Allocation-System/SURFACE-Updates/releases/tag/v0.4.0-beta.4",
+  "notes_url": "https://github.com/Autonomous-Capital-Allocation-System/SURFACE-Updates/releases/tag/v0.4.0-beta.5",
   "prerelease": true,
   "signature": {
     "algorithm": "ed25519",
     "key_id": "acas-surface-v1",
-    "value": "yvlMWpuWH0FlcUsganIhmBOBZWp69qI3ZCCFMbdchyMtuYLV6tSDIKJ4zr1YCEOffdQ8N2j9zvYowTqJ7TUSDw=="
+    "value": "dMFd3BTFVazTCojafqFo5vNavNHsKqQ+iB3+wFwoACLhShF/GfQZL2jkXvxi7CDhtb4fLHm7GTZF5qar6LsfBg=="
   },
-  "version": "0.4.0-beta.4"
+  "version": "0.4.0-beta.5"
 }
